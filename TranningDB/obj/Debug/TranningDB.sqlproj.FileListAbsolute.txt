@@ -1,0 +1,10 @@
+C:\Users\bachi\source\repos\Tranning\TranningDB\bin\Debug\TranningDB.dacpac
+C:\Users\bachi\source\repos\Tranning\TranningDB\bin\Debug\TranningDB.dll
+C:\Users\bachi\source\repos\Tranning\TranningDB\bin\Debug\TranningDB.pdb
+C:\Users\bachi\source\repos\Tranning\TranningDB\obj\Debug\TranningDB.sqlproj.AssemblyReference.cache
+C:\Users\bachi\source\repos\Tranning\TranningDB\obj\Debug\Model.xml
+C:\Users\bachi\source\repos\Tranning\TranningDB\obj\Debug\refactor.xml
+C:\Users\bachi\source\repos\Tranning\TranningDB\obj\Debug\postdeploy.sql
+C:\Users\bachi\source\repos\Tranning\TranningDB\obj\Debug\predeploy.sql
+C:\Users\bachi\source\repos\Tranning\TranningDB\obj\Debug\TranningDB.dll
+C:\Users\bachi\source\repos\Tranning\TranningDB\obj\Debug\TranningDB.pdb
